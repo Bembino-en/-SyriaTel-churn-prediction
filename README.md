@@ -44,7 +44,7 @@ The target variable is `churn`, indicating whether the customer left the service
 
 The ROC curve below compares the performance of all models. A higher area under the curve (AUC) indicates better model performance in distinguishing between churners and non-churners.
 
-![ROC Curve Comparison](images/features.pngROC.png)
+![ROC Curve Comparison](images/ROC.png)
 
 ---
 
