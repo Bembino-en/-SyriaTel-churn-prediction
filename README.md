@@ -44,7 +44,7 @@ The target variable is `churn`, indicating whether the customer left the service
 
 The ROC curve below compares the performance of all models. A higher area under the curve (AUC) indicates better model performance in distinguishing between churners and non-churners.
 
-![ROC Curve Comparison](images/features.png)
+![ROC Curve Comparison](images/features.pngROC.png)
 
 ---
 
@@ -52,7 +52,7 @@ The ROC curve below compares the performance of all models. A higher area under 
 
 The following plot shows the top 10 most important features based on Logistic Regression coefficients.
 
-![Feature Importance](images/ROC.png)
+![Feature Importance](images/features.png)
 
 Key influential factors:
 
