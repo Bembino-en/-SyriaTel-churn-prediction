@@ -1,6 +1,10 @@
-# Telecom Customer Churn Analysis
+# Syria Telecom Customer Churn Analysis
 
-This project investigates customer churn for a telecom company using classification models. The primary objective is to identify factors that influence churn and build models that can predict whether a customer is likely to leave the company.
+This project focuses on predicting customer churn using a dataset from a telecommunications company. Churn prediction helps businesses identify customers likely to leave, enabling them to take proactive retention measures. The analysis covers data cleaning, exploratory data analysis (EDA), feature engineering, model building, evaluation, and interpretation of results.
+
+## Problem Statement
+
+The goal is to build a machine learning model that predicts whether a customer will churn (leave the service provider). Identifying such customers early allows the company to implement targeted interventions to retain them.
 
 ## Project Objectives
 
@@ -62,10 +66,15 @@ Key influential factors:
 
 ## Recommendations
 
-- **Improve customer service**: High customer service calls correlate with churn. Consider training agents and resolving issues faster.
-- **Reevaluate international plans**: Customers on international plans are more likely to churn. Review pricing or offer better bundles.
-- **Target customers with no voice mail plans**: They are more likely to churn; upselling could reduce churn.
-- **Monitor high day-minute users**: Heavy users during the day tend to leave more; personalized plans may help retention.
+- Promote voicemail usage to boost customer engagement and reduce churn.
+
+- Improve customer service to reduce dissatisfaction-driven churn.
+
+- Re-evaluate international plans to address pricing or quality concerns.
+
+- Use call behavior to segment users and tailor retention strategies.
+
+- Design region-specific offers to address area-based churn trends.
 
 ---
 
